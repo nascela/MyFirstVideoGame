@@ -285,7 +285,7 @@
  <HintPath>S:/programs/Unity/2020.3.24f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>S:/programs/Progs/unity/HowToMakeVideoGame/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
+ <HintPath>S:/Progs/unity/HowToMakeVideoGame/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>S:/programs/Unity/2020.3.24f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -633,34 +633,34 @@
  <HintPath>S:/programs/Unity/2020.3.24f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>S:/programs/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>S:/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>S:/programs/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>S:/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>S:/programs/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>S:/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>S:/programs/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>S:/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>S:/programs/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>S:/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>S:/programs/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>S:/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>S:/programs/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>S:/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PlasticSCM.Editor">
- <HintPath>S:/programs/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+ <HintPath>S:/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>S:/programs/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>S:/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>S:/programs/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>S:/Progs/unity/HowToMakeVideoGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
